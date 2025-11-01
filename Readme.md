@@ -1,0 +1,1 @@
+g++ main.cpp -o audio_editor `wx-config --cxxflags --libs`
